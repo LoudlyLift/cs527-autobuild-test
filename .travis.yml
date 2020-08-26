@@ -1,0 +1,4 @@
+env:
+  global:
+    - MAKEFLAGS="-j"
+install: make
