@@ -3,4 +3,4 @@ env:
     - MAKEFLAGS="-j"
 install: make
 language: c
-script: true
+script: ./main
